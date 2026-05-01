@@ -6,6 +6,7 @@ This project analyzes retail sales data to uncover trends, profitability drivers
 ## Tools Used
 - Python
 - Pandas
+- NumPy
 - Matplotlib
 - Jupyter Notebook
 
@@ -19,6 +20,22 @@ This project analyzes retail sales data to uncover trends, profitability drivers
 - Regional performance analysis
 - Profitability analysis
 - Product performance analysis
+- Statistical Analysis
+- Sales segmentation using NumPy
+
+## Visualizations
+
+### Sales by Region
+![Sales by Region](Regional_Sales.png)
+
+### Monthly Sales Trend
+![Monthly Trend](Monthly_Trend.png)
+
+### Top Products
+![Top Products](Top_Products.png)
+
+### Category Profit
+![Category Profit](Category_Profit.png)
 
 ## Key Insights
 - West region generated the highest sales.
