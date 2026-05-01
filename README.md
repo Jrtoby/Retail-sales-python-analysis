@@ -20,8 +20,7 @@ This project analyzes retail sales data to uncover trends, profitability drivers
 - Regional performance analysis
 - Profitability analysis
 - Product performance analysis
-- Statistical Analysis
-- Sales segmentation using NumPy
+- Statistical Analysis (NumPy)
 
 ## Visualizations
 
@@ -36,6 +35,14 @@ This project analyzes retail sales data to uncover trends, profitability drivers
 
 ### Category Profit
 ![Category Profit](Category_Profit.png)
+
+### NumPy Insights
+
+- Average order sales value was calculated.
+- Median profit reduced impact of extreme values.
+- Standard deviation measured sales variability.
+- Quartiles identified low, mid, and high sales ranges.
+- Orders were segmented into High and Low sales groups.
 
 ## Key Insights
 - West region generated the highest sales.
